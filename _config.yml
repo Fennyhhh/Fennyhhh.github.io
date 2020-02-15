@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Fenny
+#weibo_username:     Fenny
 #zhihu_username:     Fenny
-github_username:    Fenny
+#github_username:    Fenny
 #twitter_username:   Fenny
 #facebook_username:  Fenny
 #linkedin_username:  firstname-lastname-idxxxx
