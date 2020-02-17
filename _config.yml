@@ -1,10 +1,10 @@
 # Site settings
 title: Fenny Blog
-SEOTitle: 何玢的博客 | Fenny Blog
+SEOTitle: Fennyhhh Blog
 header-img: img/home-bg.jpg
 email: xxx@xxx.com
-description: "关于程序于生活 | 何玢，GIS & DATAMINING & 分布式 | 这里是 @Fenny 的个人博客，与你一起发现更大的世界。"
-keyword: "Fenny, 博客, 个人网站, GIS, Web, JavaScript, 前端, 分布式"
+description: "关于程序于生活 | GIS & DATAMINING & 分布式 | 这里是 @Fennyhhh 的个人博客，与你一起发现更大的世界。"
+keyword: "Fenny, 博客, 个人网站, GIS, Web, 机器学习, 深度学习"
 url: "https://Fennyhhh.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
